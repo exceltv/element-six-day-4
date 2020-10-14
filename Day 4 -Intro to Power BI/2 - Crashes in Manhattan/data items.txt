@@ -1,0 +1,2 @@
+data link:
+http://207.251.86.229/nyc-links-cams/LinkSpeedQuery.txt
